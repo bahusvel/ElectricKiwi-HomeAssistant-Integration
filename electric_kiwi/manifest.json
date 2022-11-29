@@ -1,0 +1,11 @@
+{
+    "domain": "electric_kiwi",
+    "name": "Electric Kiwi Integeration",
+    "integration_type": "hub",
+    "documentation": "https://github.com/bahusvel/ElectricKiwi-HomeAssistant-Integration",
+    "dependencies": [],
+    "codeowners": ["@bahusvel"],
+    "requirements": [],
+    "iot_class": "cloud_polling",
+    "version": "v0.0.0"
+  }
